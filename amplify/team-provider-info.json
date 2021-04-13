@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-chopchop-dev-03827-authRole",
+      "UnauthRoleArn": "arn:aws:iam::398207638253:role/amplify-chopchop-dev-03827-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::398207638253:role/amplify-chopchop-dev-03827-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-chopchop-dev-03827-deployment",
+      "UnauthRoleName": "amplify-chopchop-dev-03827-unauthRole",
+      "StackName": "amplify-chopchop-dev-03827",
+      "StackId": "arn:aws:cloudformation:eu-central-1:398207638253:stack/amplify-chopchop-dev-03827/f87e5600-9ca8-11eb-b38b-02e71ad80288",
+      "AmplifyAppId": "d5xundmrs559c"
+    }
+  }
+}
